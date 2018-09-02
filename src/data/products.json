@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Arsenal",
+      "description": "Arsenal Home Jersey ",
+      "image": "arsenal.jpg",
+      "age": [
+        "0", "+"
+      ],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Barcelona",
+      "description": "Barcelona Home Jersey",
+      "image": "barcelona.jpg",
+      "age": [
+        "3", "10"
+      ],
+      "price": 38.50
+    },
+    {
+      "id": 3,
+      "name": "Chelsea",
+      "description": "Chelsea Home Jersey",
+      "image": "chelsea.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 4,
+      "name": "Liverpool",
+      "description":"Liverpool Home Jersey",
+      "image": "liverpool.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "name": "Real Madrid",
+      "description": "Real Madrid Home Jersey",
+      "image": "real.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 6,
+      "name": "Manchester United",
+      "description": "Manchester United Home Jersey",
+      "image": "manu.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 7,
+      "name": "Juventus",
+      "description": "Juventus Home Jersey",
+      "image": "juventus.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 8,
+      "name": "Inter Milan",
+      "description": "Inter Milan Home Jersey",
+      "image": "inter_milan.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 9,
+      "name": "Ac Milan",
+      "description": "AC Milan Home Jersey",
+      "image": "ac_milan.jpg",
+      "age": [
+        "0", "10"
+      ],
+      "price": 12.99
+    }
+  ]
+}
